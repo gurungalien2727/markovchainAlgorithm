@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1542490426 source:/home/alien/Desktop/Lab12/FinalAssignmentI/MarkovsChain/main.cpp
+	<iostream>
+	<fstream>
+
+1543705881 source:/home/alien/Desktop/MarkovsChain/main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	<cstdlib>
+	<time.h>
+
+1543705881 source:/home/alien/Desktop/CSII/MarkovsChain/main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	<cstdlib>
+	<time.h>
+
